@@ -1,4 +1,4 @@
 # MaryDoroshchukJava
-MaryJava
-Progect: GameMoreOrLess
-Create by Maryna Doroshchuk
+MaryJava;
+Progect: GameMoreOrLess;
+Create by Maryna Doroshchuk.
