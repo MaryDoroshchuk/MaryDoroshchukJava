@@ -3,26 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="c0460cf7-67d3-4558-bf29-5196091efc6b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewYearPresent/Controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewYearPresent/View/TextConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewYearPresent/View/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewYearPresent/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewYearPresent/messages_ua.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameMoreOrLess.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameMoreOrLess.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GameMoreOrLess/Controller.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GameMoreOrLess/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GameMoreOrLess/Model.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GameMoreOrLess/View.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameMoreOrLess/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameMoreOrLess/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/Sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/SortBySugar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/SortByWeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameMoreOrLess/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearPresent/Controller/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/SortBySugar.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearPresent/Controller/SortBySugar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/SortByWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearPresent/Controller/SortByWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameMoreOrLess/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameMoreOrLess/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Chocolate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Jelly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Present.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Sweets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameMoreOrLess/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameMoreOrLess/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearPresent/Model/Chocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Jelly.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearPresent/Model/Jelly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearPresent/Model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Present.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearPresent/Model/Present.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Sweets.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearPresent/Model/Sweets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameMoreOrLess/View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/View/View.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,22 +62,21 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/NewYearPresent" />
-      <recent name="$PROJECT_DIR$/.idea/GameMoreOrLess" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Model" />
+      <recent name="$PROJECT_DIR$/src/Controller" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Main" />
       <recent name="" />
       <recent name="View" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/NewYearPresent" />
-      <recent name="$PROJECT_DIR$/src/Model" />
-      <recent name="$PROJECT_DIR$/src/Controller" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NewYearPresent" />
+      <recent name="$PROJECT_DIR$/.idea/GameMoreOrLess" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -101,22 +106,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewYearPresent.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game.Main" />
       <module name="GameMoreOrLess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameMoreOrLess.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewYearPresent.Main" />
       <module name="GameMoreOrLess" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GameMoreOrLess.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,18 +170,18 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="288" y="58" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1575572404099" />
-    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575574891653">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575573373750">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1575574891653" />
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1575573373750" />
     <state x="430" y="201" width="563" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575573745756">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="430" y="201" width="563" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1575573745756" />
-    <state x="448" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575574284548">
+    <state x="448" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575573349134">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="448" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1575574284548" />
+    <state x="448" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1575573349134" />
     <state x="469" y="256" width="494" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575572419251">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -185,22 +190,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575459645059" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1575574907532">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1575573556319">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575574907532" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1575574907531">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575573556319" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1575573556318">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575574907531" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1575574907528">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575573556318" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1575573556317">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575574907528" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1575574907531">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575573556317" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1575573556319">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575574907531" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575573556319" />
     <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1575573525902">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -209,10 +214,6 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="167" y="125" width="1099" height="543" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/67.27.1299.741@67.27.1299.741" timestamp="1575571312697" />
-    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575574827659">
-      <screen x="67" y="27" width="1299" height="741" />
-    </state>
-    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1575574827659" />
     <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1575572360704">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
